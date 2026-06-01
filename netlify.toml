@@ -1,7 +1,10 @@
 [build]
   base = "admin-web"
-  command = "cd .. && npm ci && npm --prefix admin-web ci && npx prisma generate && npx prisma migrate deploy && npm --prefix admin-web run build"
+  command = "npm ci && cd .. && npm ci && npx prisma generate && npx prisma migrate deploy && cd admin-web && npm run build"
   publish = ".next"
 
 [build.environment]
   NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
