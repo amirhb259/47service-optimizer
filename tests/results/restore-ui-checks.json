@@ -1,0 +1,2567 @@
+[
+  {
+    "label": "overview-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 264,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 264,
+          "y": 0,
+          "w": 1656,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 1596,
+          "h": 62.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".status-plate",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 118.00062561035156,
+          "w": 1596,
+          "h": 357.6875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  },
+  {
+    "label": "settings-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 264,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 264,
+          "y": 0,
+          "w": 1656,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 1596,
+          "h": 62.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 1,
+        "rect": {
+          "x": 912.015625,
+          "y": 603.6883544921875,
+          "w": 155.984375,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 2,
+        "rect": {
+          "x": 932.421875,
+          "y": 1643.9383544921875,
+          "w": 135.578125,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 3,
+        "rect": {
+          "x": 1713.953125,
+          "y": 1643.9383544921875,
+          "w": 134.046875,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 4,
+        "rect": {
+          "x": 940,
+          "y": 1789.9383544921875,
+          "w": 128,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 5,
+        "rect": {
+          "x": 1720,
+          "y": 1789.9383544921875,
+          "w": 128,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 6,
+        "rect": {
+          "x": 1701.71875,
+          "y": 1935.9383544921875,
+          "w": 146.28125,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 7,
+        "rect": {
+          "x": 940,
+          "y": 2081.9384765625,
+          "w": 128,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 114.4696044921875,
+          "w": 1596,
+          "h": 935.578125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".settings-board",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 114.4696044921875,
+          "w": 1596,
+          "h": 935.578125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".settings-category",
+        "index": 0,
+        "rect": {
+          "x": 319,
+          "y": 214.9383544921875,
+          "w": 1546,
+          "h": 476.75
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".settings-category",
+        "index": 1,
+        "rect": {
+          "x": 319,
+          "y": 707.6883544921875,
+          "w": 1546,
+          "h": 476.75
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 2,
+        "rect": {
+          "x": 319,
+          "y": 1200.4383544921875,
+          "w": 1546,
+          "h": 330.75
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 3,
+        "rect": {
+          "x": 319,
+          "y": 1547.1883544921875,
+          "w": 1546,
+          "h": 622.7501220703125
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "help-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 264,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 264,
+          "y": 0,
+          "w": 1656,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 1596,
+          "h": 62.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 120.20145416259766,
+          "w": 1596,
+          "h": 935.5780639648438
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 319,
+          "y": 310.7951965332031,
+          "w": 1546,
+          "h": 719.984375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 264,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 264,
+          "y": 0,
+          "w": 1656,
+          "h": 1080
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 1596,
+          "h": 62.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 294,
+          "y": 114.421875,
+          "w": 1596,
+          "h": 935.578125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 319,
+          "y": 305.015625,
+          "w": 1546,
+          "h": 719.984375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".premium-overlay",
+        "index": 0,
+        "rect": {
+          "x": 640.9247436523438,
+          "y": 58.2943115234375,
+          "w": 638.1504516601562,
+          "h": 969.1910400390625
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  },
+  {
+    "label": "overview-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 211
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 211,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 404,
+          "h": 100.046875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".status-plate",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 340.8244323730469,
+          "w": 404,
+          "h": 30
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  },
+  {
+    "label": "settings-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 211
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 211,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 404,
+          "h": 100.046875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 1,
+        "rect": {
+          "x": 38,
+          "y": 1244.272705078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 2,
+        "rect": {
+          "x": 38,
+          "y": 2837.788330078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 3,
+        "rect": {
+          "x": 38,
+          "y": 2995.350830078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 4,
+        "rect": {
+          "x": 38,
+          "y": 3152.913330078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 5,
+        "rect": {
+          "x": 38,
+          "y": 3310.475830078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 6,
+        "rect": {
+          "x": 38,
+          "y": 3667.975830078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 7,
+        "rect": {
+          "x": 38,
+          "y": 3825.538330078125,
+          "w": 344,
+          "h": 44
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 340.81951904296875,
+          "w": 404,
+          "h": 667.953125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-board",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 340.81951904296875,
+          "w": 404,
+          "h": 667.953125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 468.69451904296875,
+          "w": 374,
+          "h": 834.5781860351562
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 1,
+        "rect": {
+          "x": 23,
+          "y": 1319.272705078125,
+          "w": 374,
+          "h": 849.40625
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 2,
+        "rect": {
+          "x": 23,
+          "y": 2184.678955078125,
+          "w": 374,
+          "h": 499.796875
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 3,
+        "rect": {
+          "x": 23,
+          "y": 2700.475830078125,
+          "w": 374,
+          "h": 1184.0625
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "help-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 211
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 211,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 404,
+          "h": 100.046875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 341.9017333984375,
+          "w": 404,
+          "h": 667.953125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 469.7767333984375,
+          "w": 374,
+          "h": 697.4375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 420,
+          "h": 211
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 211,
+          "w": 420,
+          "h": 800
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 404,
+          "h": 100.046875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 8,
+          "y": 336.0950622558594,
+          "w": 404,
+          "h": 667.953125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 463.9700622558594,
+          "w": 374,
+          "h": 697.4373779296875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".premium-overlay",
+        "index": 0,
+        "rect": {
+          "x": 11.4130859375,
+          "y": 31.655059814453125,
+          "w": 397.173828125,
+          "h": 786.4827880859375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "overview-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 113
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 113,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 1180,
+          "h": 43.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".status-plate",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 178.408935546875,
+          "w": 1180,
+          "h": 26
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  },
+  {
+    "label": "settings-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 113
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 113,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 1180,
+          "h": 43.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 1,
+        "rect": {
+          "x": 434.109375,
+          "y": 649.5159301757812,
+          "w": 141.890625,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 2,
+        "rect": {
+          "x": 448,
+          "y": 1689.7659912109375,
+          "w": 128,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 3,
+        "rect": {
+          "x": 1032,
+          "y": 1689.7659912109375,
+          "w": 128,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 4,
+        "rect": {
+          "x": 448,
+          "y": 1835.7659912109375,
+          "w": 128,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 5,
+        "rect": {
+          "x": 1032,
+          "y": 1835.7659912109375,
+          "w": 128,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 6,
+        "rect": {
+          "x": 1026.84375,
+          "y": 1981.7659912109375,
+          "w": 133.15625,
+          "h": 40
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 7,
+        "rect": {
+          "x": 448,
+          "y": 2127.76611328125,
+          "w": 128,
+          "h": 39.999755859375
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 177.5471954345703,
+          "w": 1180,
+          "h": 528.171875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-board",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 177.5471954345703,
+          "w": 1180,
+          "h": 528.171875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 258.76593017578125,
+          "w": 1154,
+          "h": 476.75
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 1,
+        "rect": {
+          "x": 23,
+          "y": 751.5159301757812,
+          "w": 1154,
+          "h": 476.75006103515625
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 2,
+        "rect": {
+          "x": 23,
+          "y": 1244.2659912109375,
+          "w": 1154,
+          "h": 330.75
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".settings-category",
+        "index": 3,
+        "rect": {
+          "x": 23,
+          "y": 1591.0159912109375,
+          "w": 1154,
+          "h": 622.7498779296875
+        },
+        "out": true,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "help-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 113
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 113,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 1180,
+          "h": 43.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 182.44737243652344,
+          "w": 1180,
+          "h": 528.171875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 263.6661376953125,
+          "w": 1154,
+          "h": 598.34375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "results": [
+      {
+        "sel": ".dashboard-screen",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-rail",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 113
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".dashboard-content",
+        "index": 0,
+        "rect": {
+          "x": 0,
+          "y": 113,
+          "w": 1200,
+          "h": 600
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".dashboard-header",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 1180,
+          "h": 43.828125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 0,
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 1,
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 2,
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 3,
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".nav-button",
+        "index": 4,
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".ghost-button",
+        "index": 0,
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".mode-chip",
+        "index": 0,
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      },
+      {
+        "sel": ".module-board",
+        "index": 0,
+        "rect": {
+          "x": 10,
+          "y": 175.0934600830078,
+          "w": 1180,
+          "h": 528.171875
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".support-ticket-panel",
+        "index": 0,
+        "rect": {
+          "x": 23,
+          "y": 256.31219482421875,
+          "w": 1154,
+          "h": 598.34375
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": true
+      },
+      {
+        "sel": ".premium-overlay",
+        "index": 0,
+        "rect": {
+          "x": 282.2307434082031,
+          "y": 38.853240966796875,
+          "w": 635.53857421875,
+          "h": 536.235595703125
+        },
+        "out": false,
+        "overflowX": false,
+        "overflowY": false
+      }
+    ]
+  }
+]

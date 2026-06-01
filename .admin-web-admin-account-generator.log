@@ -1,0 +1,38 @@
+
+> forty-seven-service@0.1.0 admin:dev
+> npm --prefix admin-web run dev
+
+
+> 47service-license-admin@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3001
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3001
+   - Network:      http://127.0.0.1:3001
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 1602ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1455ms (616 modules)
+ GET / 200 in 1983ms
+ ✓ Compiled /api/auth/login in 243ms (636 modules)
+ POST /api/auth/login 200 in 341ms
+ GET / 200 in 79ms
+ GET / 200 in 59ms
+ ✓ Compiled /api/admin-accounts in 145ms (624 modules)
+ POST /api/admin-accounts 201 in 235ms
+ GET / 200 in 146ms
+ ✓ Compiled in 251ms (263 modules)
+ ✓ Compiled in 344ms (624 modules)
+ ✓ Compiled in 147ms (624 modules)
+ ✓ Compiled in 147ms (263 modules)
+ ✓ Compiled in 115ms (610 modules)
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3001
+   - Network:      http://127.0.0.1:3001
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 1466ms
+   Reload env: .env

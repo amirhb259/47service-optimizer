@@ -1,0 +1,4527 @@
+[
+  {
+    "label": "overview-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 24,
+          "y": 909,
+          "w": 215,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 24,
+          "y": 956,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 181.109375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Overview",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 294,
+          "y": 52,
+          "w": 181.109375,
+          "h": 40.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Action console",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 461,
+          "y": 237.9375,
+          "w": 660,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflows online. Every run explains, logs, and reports",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 461,
+          "y": 261.9375,
+          "w": 660,
+          "h": 25.46875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service now groups diagnostics, recommendations, guarded c",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 461,
+          "y": 297.40625,
+          "w": 660,
+          "h": 51.1875
+        },
+        "color": "rgba(232, 244, 242, 0.68)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 315,
+          "y": 539.109375,
+          "w": 108.359375,
+          "h": 28
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Game Prep",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 315,
+          "y": 647.109375,
+          "w": 210.65625,
+          "h": 23
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO unlocks timed gaming sessions, reversible power-plan swi",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 315,
+          "y": 686.109375,
+          "w": 210.65625,
+          "h": 99.1875
+        },
+        "color": "rgba(232, 244, 242, 0.66)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "View access",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 315,
+          "y": 801.296875,
+          "w": 127.5625,
+          "h": 38
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflow",
+        "tag": "SPAN",
+        "cls": "status-pill",
+        "rect": {
+          "x": 583.65625,
+          "y": 539.109375,
+          "w": 126.546875,
+          "h": 28
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Game Optimizer Session",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 583.65625,
+          "y": 647.109375,
+          "w": 210.671875,
+          "h": 23
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Detects running games, shows process pressure, lists safe su",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 583.65625,
+          "y": 686.109375,
+          "w": 210.671875,
+          "h": 99.1875
+        },
+        "color": "rgba(232, 244, 242, 0.66)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Open workflow",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 583.65625,
+          "y": 801.296875,
+          "w": 152.109375,
+          "h": 38
+        },
+        "color": "rgb(234, 255, 248)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 954.640625,
+          "y": 513.109375,
+          "w": 108.359375,
+          "h": 28
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lag Cause Analyzer",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 852.328125,
+          "y": 621.109375,
+          "w": 210.671875,
+          "h": 23
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "settings-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 24,
+          "y": 909,
+          "w": 215,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 24,
+          "y": 956,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 181.109375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 294,
+          "y": 52,
+          "w": 181.109375,
+          "h": 40.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Preferences",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 319,
+          "y": 139.421875,
+          "w": 84.640625,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 163.421875,
+          "w": 84.640625,
+          "h": 25.46875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Saved locally",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1751.171875,
+          "y": 152.15625,
+          "w": 113.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Dark",
+        "tag": "BUTTON",
+        "cls": "theme-option active",
+        "rect": {
+          "x": 863,
+          "y": 316.640625,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Light",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 931,
+          "y": 316.640625,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "System",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 999,
+          "y": 316.640625,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 1755.953125,
+          "y": 313.640625,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 1628.015625,
+          "y": 481.8125,
+          "w": 221.984375,
+          "h": 16
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Restore layout",
+        "tag": "BUTTON",
+        "cls": "ghost-button settings-action",
+        "rect": {
+          "x": 912.015625,
+          "y": 603.640625,
+          "w": 155.984375,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 976,
+          "y": 806.390625,
+          "w": 92,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 1755.953125,
+          "y": 806.390625,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 975.953125,
+          "y": 952.390625,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 976,
+          "y": 1098.390625,
+          "w": 92,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "help-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 24,
+          "y": 909,
+          "w": 215,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 24,
+          "y": 956,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 181.109375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 294,
+          "y": 52,
+          "w": 181.109375,
+          "h": 40.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 319,
+          "y": 184.484375,
+          "w": 276.734375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 208.484375,
+          "w": 276.734375,
+          "h": 25.46875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1749.953125,
+          "y": 197.21875,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 305.015625,
+          "w": 760,
+          "h": 51.1875
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 319,
+          "y": 356.203125,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 456.203125,
+          "w": 1546,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 545.59375,
+          "w": 1546,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 1091.5,
+          "y": 658.59375,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 1710.140625,
+          "y": 888.859375,
+          "w": 154.859375,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-max",
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "overlayOpen": true,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 106,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 166,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 226,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 24,
+          "y": 286,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 24,
+          "y": 346,
+          "w": 215,
+          "h": 52
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 24,
+          "y": 909,
+          "w": 215,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 24,
+          "y": 956,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 24,
+          "y": 1012,
+          "w": 215,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 294,
+          "y": 30,
+          "w": 181.109375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 294,
+          "y": 52,
+          "w": 181.109375,
+          "h": 40.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1770.265625,
+          "y": 40.40625,
+          "w": 119.734375,
+          "h": 42
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 319,
+          "y": 184.484375,
+          "w": 276.734375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 208.484375,
+          "w": 276.734375,
+          "h": 25.46875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1749.953125,
+          "y": 197.21875,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 305.015625,
+          "w": 760,
+          "h": 51.1875
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 319,
+          "y": 356.203125,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 456.203125,
+          "w": 1546,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 319,
+          "y": 545.59375,
+          "w": 1546,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 1091.5,
+          "y": 658.59375,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 1710.140625,
+          "y": 888.859375,
+          "w": 154.859375,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "BUTTON",
+        "cls": "modal-close",
+        "rect": {
+          "x": 641,
+          "y": 55,
+          "w": 638,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service Elite",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 737,
+          "y": 111,
+          "w": 490,
+          "h": 22.515625
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium Addon",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 737,
+          "y": 133.515625,
+          "w": 490,
+          "h": 34
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Unlock the extreme optimization engine. Premium works alongs",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 737,
+          "y": 175.515625,
+          "w": 490,
+          "h": 45.03125
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "overview-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 10,
+          "y": 110.5,
+          "w": 184.9375,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 200.9375,
+          "y": 106,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 162.53125,
+          "h": 15
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Overview",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 8,
+          "y": 240,
+          "w": 162.53125,
+          "h": 25.046875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Action console",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 432.046875,
+          "w": 374,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflows online. Every run explains, logs, and reports",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 456.046875,
+          "w": 374,
+          "h": 37.75
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service now groups diagnostics, recommendations, guarded c",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 503.796875,
+          "w": 374,
+          "h": 102.375
+        },
+        "color": "rgba(232, 244, 242, 0.78)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 288.640625,
+          "y": 394.046875,
+          "w": 108.359375,
+          "h": 28
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Game Prep",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 478.046875,
+          "w": 374,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO unlocks timed gaming sessions, reversible power-plan swi",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 508.046875,
+          "w": 374,
+          "h": 38.6875
+        },
+        "color": "rgba(232, 244, 242, 0.78)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "View access",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 23,
+          "y": 556.734375,
+          "w": 127.5625,
+          "h": 38
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflow",
+        "tag": "SPAN",
+        "cls": "status-pill",
+        "rect": {
+          "x": 270.453125,
+          "y": 634.734375,
+          "w": 126.546875,
+          "h": 28
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Game Optimizer Session",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 718.734375,
+          "w": 374,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Detects running games, shows process pressure, lists safe su",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 748.734375,
+          "w": 374,
+          "h": 38.6875
+        },
+        "color": "rgba(232, 244, 242, 0.78)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Open workflow",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 23,
+          "y": 797.421875,
+          "w": 152.109375,
+          "h": 38
+        },
+        "color": "rgb(234, 255, 248)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 288.640625,
+          "y": 875.421875,
+          "w": 108.359375,
+          "h": 28
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lag Cause Analyzer",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 959.421875,
+          "w": 374,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "settings-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 10,
+          "y": 110.5,
+          "w": 184.9375,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 200.9375,
+          "y": 106,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 162.53125,
+          "h": 15
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 8,
+          "y": 240,
+          "w": 162.53125,
+          "h": 25.046875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Preferences",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 350.046875,
+          "w": 84.640625,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 374.046875,
+          "w": 84.640625,
+          "h": 18.875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Saved locally",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 418.921875,
+          "w": 113.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Dark",
+        "tag": "BUTTON",
+        "cls": "theme-option active",
+        "rect": {
+          "x": 43,
+          "y": 605.234375,
+          "w": 108.65625,
+          "h": 34
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Light",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 155.65625,
+          "y": 605.234375,
+          "w": 108.671875,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "System",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 268.328125,
+          "y": 605.234375,
+          "w": 108.65625,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 38,
+          "y": 757.796875,
+          "w": 344,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 40,
+          "y": 1106.9375,
+          "w": 344,
+          "h": 16
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Restore layout",
+        "tag": "BUTTON",
+        "cls": "ghost-button settings-action",
+        "rect": {
+          "x": 38,
+          "y": 1238.5,
+          "w": 344,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 38,
+          "y": 1450.8125,
+          "w": 344,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 38,
+          "y": 1604.375,
+          "w": 344,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 38,
+          "y": 1781.125,
+          "w": 344,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 38,
+          "y": 2107.90625,
+          "w": 344,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "help-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 10,
+          "y": 110.5,
+          "w": 184.9375,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 200.9375,
+          "y": 106,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 162.53125,
+          "h": 15
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 8,
+          "y": 240,
+          "w": 162.53125,
+          "h": 25.046875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 350.046875,
+          "w": 204.984375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 374.046875,
+          "w": 204.984375,
+          "h": 18.875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 418.921875,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 462.921875,
+          "w": 374,
+          "h": 76.78125
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 539.703125,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 639.703125,
+          "w": 374,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 729.09375,
+          "w": 374,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 209.5,
+          "y": 842.09375,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 23,
+          "y": 1116.359375,
+          "w": 374,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "overlayOpen": true,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 10,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 90.796875,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 171.59375,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 252.390625,
+          "y": 58,
+          "w": 76.796875,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 333.1875,
+          "y": 58,
+          "w": 76.8125,
+          "h": 40
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 10,
+          "y": 110.5,
+          "w": 184.9375,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 200.9375,
+          "y": 106,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 10,
+          "y": 156,
+          "w": 184.9375,
+          "h": 44
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 8,
+          "y": 219,
+          "w": 162.53125,
+          "h": 15
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 8,
+          "y": 240,
+          "w": 162.53125,
+          "h": 25.046875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 8,
+          "y": 285.046875,
+          "w": 404,
+          "h": 34
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 350.046875,
+          "w": 204.984375,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 374.046875,
+          "w": 204.984375,
+          "h": 18.875
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 418.921875,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 462.921875,
+          "w": 374,
+          "h": 76.78125
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 539.703125,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 639.703125,
+          "w": 374,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 729.09375,
+          "w": 374,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 209.5,
+          "y": 842.09375,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 23,
+          "y": 1116.359375,
+          "w": 374,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "BUTTON",
+        "cls": "modal-close",
+        "rect": {
+          "x": 9,
+          "y": 9,
+          "w": 30,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service Elite",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 105,
+          "w": 348,
+          "h": 21
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium Addon",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 126,
+          "w": 348,
+          "h": 27
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Unlock the extreme optimization engine. Premium works alongs",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 161,
+          "w": 348,
+          "h": 63
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "overview-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 12.5,
+          "w": 142.46875,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 982.9375,
+          "y": 8,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 150.921875,
+          "h": 14
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Overview",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 10,
+          "y": 139,
+          "w": 150.921875,
+          "h": 27.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Action console",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 93,
+          "y": 187.828125,
+          "w": 660,
+          "h": 14
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflows online. Every run explains, logs, and reports",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 93,
+          "y": 207.828125,
+          "w": 660,
+          "h": 24.53125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service now groups diagnostics, recommendations, guarded c",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 93,
+          "y": 240.359375,
+          "w": 660,
+          "h": 39.375
+        },
+        "color": "rgba(232, 244, 242, 0.68)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 184.625,
+          "y": 223.828125,
+          "w": 99.875,
+          "h": 26
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Smart Game Prep",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 299.828125,
+          "w": 261.5,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO unlocks timed gaming sessions, reversible power-plan swi",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 327.828125,
+          "w": 261.5,
+          "h": 74.390625
+        },
+        "color": "rgba(232, 244, 242, 0.66)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "View access",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 23,
+          "y": 410.21875,
+          "w": 127.5625,
+          "h": 38
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Safe workflow",
+        "tag": "SPAN",
+        "cls": "status-pill",
+        "rect": {
+          "x": 465.15625,
+          "y": 223.828125,
+          "w": 116.84375,
+          "h": 26
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Game Optimizer Session",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 320.5,
+          "y": 299.828125,
+          "w": 261.5,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Detects running games, shows process pressure, lists safe su",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 320.5,
+          "y": 327.828125,
+          "w": 261.5,
+          "h": 99.1875
+        },
+        "color": "rgba(232, 244, 242, 0.66)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Open workflow",
+        "tag": "BUTTON",
+        "cls": "feature-action",
+        "rect": {
+          "x": 320.5,
+          "y": 435.015625,
+          "w": 152.109375,
+          "h": 38
+        },
+        "color": "rgb(234, 255, 248)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "PRO locked",
+        "tag": "SPAN",
+        "cls": "status-pill locked",
+        "rect": {
+          "x": 779.625,
+          "y": 223.828125,
+          "w": 99.875,
+          "h": 26
+        },
+        "color": "rgb(255, 215, 212)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lag Cause Analyzer",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 618,
+          "y": 299.828125,
+          "w": 261.5,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "settings-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 12.5,
+          "w": 142.46875,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 982.9375,
+          "y": 8,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 150.921875,
+          "h": 14
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 10,
+          "y": 139,
+          "w": 150.921875,
+          "h": 27.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Preferences",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 187.828125,
+          "w": 88.984375,
+          "h": 19.6875
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 213.515625,
+          "w": 88.984375,
+          "h": 24.53125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Saved locally",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1063.171875,
+          "y": 199.9375,
+          "w": 113.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Dark",
+        "tag": "BUTTON",
+        "cls": "theme-option active",
+        "rect": {
+          "x": 371,
+          "y": 357.796875,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Light",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 439,
+          "y": 357.796875,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "System",
+        "tag": "BUTTON",
+        "cls": "theme-option",
+        "rect": {
+          "x": 507,
+          "y": 357.796875,
+          "w": 64,
+          "h": 34
+        },
+        "color": "rgba(232, 244, 242, 0.7)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 1067.953125,
+          "y": 354.796875,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 940.015625,
+          "y": 522.96875,
+          "w": 221.984375,
+          "h": 16
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Restore layout",
+        "tag": "BUTTON",
+        "cls": "ghost-button settings-action",
+        "rect": {
+          "x": 434.109375,
+          "y": 646.796875,
+          "w": 141.890625,
+          "h": 40
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 484,
+          "y": 847.546875,
+          "w": 92,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 1067.953125,
+          "y": 847.546875,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Off",
+        "tag": "BUTTON",
+        "cls": "toggle-switch",
+        "rect": {
+          "x": 483.953125,
+          "y": 993.546875,
+          "w": 92.046875,
+          "h": 40
+        },
+        "color": "rgba(232, 244, 242, 0.72)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "On",
+        "tag": "BUTTON",
+        "cls": "toggle-switch active",
+        "rect": {
+          "x": 484,
+          "y": 1139.546875,
+          "w": 92,
+          "h": 40
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "help-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 12.5,
+          "w": 142.46875,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 982.9375,
+          "y": 8,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 150.921875,
+          "h": 14
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 10,
+          "y": 139,
+          "w": 150.921875,
+          "h": 27.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 187.828125,
+          "w": 266.484375,
+          "h": 19.6875
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 213.515625,
+          "w": 266.484375,
+          "h": 24.53125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1061.953125,
+          "y": 199.9375,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 256.046875,
+          "w": 760,
+          "h": 19.6875
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 275.734375,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 375.734375,
+          "w": 1154,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 465.125,
+          "w": 1154,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 599.5,
+          "y": 578.125,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 1024.140625,
+          "y": 808.390625,
+          "w": 152.859375,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "premium-overlay-short",
+    "viewport": {
+      "w": 1200,
+      "h": 600
+    },
+    "overlayOpen": true,
+    "textSamples": [
+      {
+        "text": "Overview",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 125.71875,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Modules",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 266.265625,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Settings",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 406.8125,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "nav-button active",
+        "rect": {
+          "x": 547.359375,
+          "y": 8,
+          "w": 134.546875,
+          "h": 38
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium",
+        "tag": "BUTTON",
+        "cls": "nav-button",
+        "rect": {
+          "x": 687.90625,
+          "y": 8,
+          "w": 134.5625,
+          "h": 38
+        },
+        "color": "rgba(231, 244, 243, 0.72)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Get Premium",
+        "tag": "BUTTON",
+        "cls": "premium-footer-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 12.5,
+          "w": 142.46875,
+          "h": 35
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "grid",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "No system actions active",
+        "tag": "SPAN",
+        "cls": "status-pill full",
+        "rect": {
+          "x": 982.9375,
+          "y": 8,
+          "w": 209.0625,
+          "h": 44
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Return",
+        "tag": "BUTTON",
+        "cls": "ghost-button",
+        "rect": {
+          "x": 828.46875,
+          "y": 64,
+          "w": 142.46875,
+          "h": 40
+        },
+        "color": "rgb(234, 247, 245)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service command shell",
+        "tag": "P",
+        "cls": "section-kicker",
+        "rect": {
+          "x": 10,
+          "y": 123,
+          "w": 150.921875,
+          "h": 14
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 10,
+          "y": 139,
+          "w": 150.921875,
+          "h": 27.828125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Lite entry",
+        "tag": "DIV",
+        "cls": "mode-chip",
+        "rect": {
+          "x": 1095.40625,
+          "y": 126.90625,
+          "w": 94.59375,
+          "h": 36
+        },
+        "color": "rgb(223, 255, 244)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 23,
+          "y": 187.828125,
+          "w": 266.484375,
+          "h": 19.6875
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset / proof request",
+        "tag": "H3",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 213.515625,
+          "w": 266.484375,
+          "h": 24.53125
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Proof upload",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 1061.953125,
+          "y": 199.9375,
+          "w": 115.046875,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 256.046875,
+          "w": 760,
+          "h": 19.6875
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 23,
+          "y": 275.734375,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 375.734375,
+          "w": 1154,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 23,
+          "y": 465.125,
+          "w": 1154,
+          "h": 96
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 599.5,
+          "y": 578.125,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 1024.140625,
+          "y": 808.390625,
+          "w": 152.859375,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "BUTTON",
+        "cls": "modal-close",
+        "rect": {
+          "x": 281,
+          "y": 31,
+          "w": 638,
+          "h": 20
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47Service Elite",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 377,
+          "y": 87,
+          "w": 490,
+          "h": 22.515625
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Premium Addon",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 377,
+          "y": 109.515625,
+          "w": 490,
+          "h": 34
+        },
+        "color": "rgb(240, 214, 138)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Unlock the extreme optimization engine. Premium works alongs",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 377,
+          "y": 151.515625,
+          "w": 490,
+          "h": 45.03125
+        },
+        "color": "rgba(255, 255, 255, 0.7)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  },
+  {
+    "label": "login-help-small",
+    "viewport": {
+      "w": 420,
+      "h": 800
+    },
+    "overlayOpen": false,
+    "textSamples": [
+      {
+        "text": "Desktop optimizer foundation",
+        "tag": "P",
+        "cls": "brand-kicker",
+        "rect": {
+          "x": 110.703125,
+          "y": -163.09375,
+          "w": 198.59375,
+          "h": 15
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "License",
+        "tag": "BUTTON",
+        "cls": "login-tab active",
+        "rect": {
+          "x": 42,
+          "y": 4.859375,
+          "w": 164,
+          "h": 38
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Username",
+        "tag": "BUTTON",
+        "cls": "login-tab",
+        "rect": {
+          "x": 214,
+          "y": 4.859375,
+          "w": 164,
+          "h": 38
+        },
+        "color": "rgba(232, 244, 242, 0.68)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "47S-PRO-XXXX-XXXX-XXXX",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 83,
+          "y": 108.359375,
+          "w": 237,
+          "h": 23
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "BUTTON",
+        "cls": "license-submit",
+        "rect": {
+          "x": 332,
+          "y": 101.859375,
+          "w": 36,
+          "h": 36
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "P",
+        "cls": "license-hint",
+        "rect": {
+          "x": 37,
+          "y": 155.859375,
+          "w": 346,
+          "h": 20
+        },
+        "color": "rgba(232, 244, 242, 0.62)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Use Lite 47Service",
+        "tag": "BUTTON",
+        "cls": "lite-action",
+        "rect": {
+          "x": 37,
+          "y": 187.859375,
+          "w": 346,
+          "h": 50
+        },
+        "color": "rgb(247, 251, 251)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Help",
+        "tag": "BUTTON",
+        "cls": "help-action",
+        "rect": {
+          "x": 37,
+          "y": 245.859375,
+          "w": 346,
+          "h": 46
+        },
+        "color": "rgba(232, 244, 242, 0.82)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "BUTTON",
+        "cls": "modal-close",
+        "rect": {
+          "x": 14,
+          "y": 314.859375,
+          "w": 30,
+          "h": 30
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Support ticket",
+        "tag": "P",
+        "cls": "module-eyebrow",
+        "rect": {
+          "x": 14,
+          "y": 373.859375,
+          "w": 392,
+          "h": 16
+        },
+        "color": "rgb(125, 245, 210)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "H2",
+        "cls": "",
+        "rect": {
+          "x": 14,
+          "y": 409.765625,
+          "w": 392,
+          "h": 32
+        },
+        "color": "rgb(243, 247, 248)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Create a support ticket for an HWID reset or proof review. T",
+        "tag": "P",
+        "cls": "",
+        "rect": {
+          "x": 14,
+          "y": 461.671875,
+          "w": 392,
+          "h": 76.78125
+        },
+        "color": "rgba(236, 247, 245, 0.84)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "LITE support",
+        "tag": "SPAN",
+        "cls": "status-pill large",
+        "rect": {
+          "x": 14,
+          "y": 538.453125,
+          "w": 111.828125,
+          "h": 34
+        },
+        "color": "rgba(237, 247, 246, 0.76)",
+        "display": "inline-flex",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "HWID reset request",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 14,
+          "y": 636.453125,
+          "w": 392,
+          "h": 48.390625
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "Describe what changed and include purchase details.",
+        "tag": "TEXTAREA",
+        "cls": "",
+        "rect": {
+          "x": 14,
+          "y": 725.84375,
+          "w": 392,
+          "h": 84
+        },
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "opacity": "1",
+        "overflowX": false
+      },
+      {
+        "text": "",
+        "tag": "INPUT",
+        "cls": "",
+        "rect": {
+          "x": 209.5,
+          "y": 824.84375,
+          "w": 1,
+          "h": 1
+        },
+        "color": "rgba(237, 247, 246, 0.84)",
+        "display": "block",
+        "opacity": "0",
+        "overflowX": false
+      },
+      {
+        "text": "Submit ticket",
+        "tag": "BUTTON",
+        "cls": "license-submit wide modal-primary",
+        "rect": {
+          "x": 14,
+          "y": 1095.109375,
+          "w": 392,
+          "h": 44
+        },
+        "color": "rgb(3, 17, 14)",
+        "display": "flex",
+        "opacity": "1",
+        "overflowX": false
+      }
+    ]
+  }
+]

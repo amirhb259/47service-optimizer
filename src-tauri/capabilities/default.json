@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Default desktop capability for the 47Service UI foundation.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

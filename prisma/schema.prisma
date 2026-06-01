@@ -1,0 +1,107 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum LicenseStatus {
+  ACTIVE
+  DISABLED
+  EXPIRED
+}
+
+enum LicenseType {
+  LITE
+  PRO
+  LIFETIME
+}
+
+enum SupportTicketStatus {
+  OPEN
+  REVIEWING
+  ACCEPTED
+  REJECTED
+  CLOSED
+}
+
+model License {
+  id                 String        @id @default(cuid())
+  key                String        @unique
+  type               LicenseType
+  status             LicenseStatus @default(ACTIVE)
+  premium            Boolean       @default(false)
+  createdAt          DateTime      @default(now())
+  expiresAt          DateTime?
+  activatedAt        DateTime?
+  hwid               String?
+  username           String?       @unique
+  passwordHash       String?
+  passwordSalt       String?
+  credentialIssuedAt DateTime?
+  adminCreated       Boolean       @default(false)
+  notes              String?
+  liteTrial          LiteTrial?
+
+  @@index([status])
+  @@index([type])
+  @@index([premium])
+  @@index([adminCreated])
+  @@index([expiresAt])
+  @@index([username])
+}
+
+model LiteTrial {
+  id                String        @id @default(cuid())
+  licenseId         String        @unique
+  license           License       @relation(fields: [licenseId], references: [id], onDelete: Cascade)
+  hwid              String
+  ipAddress         String
+  userAgent         String?
+  deviceFingerprint String?
+  status            LicenseStatus @default(ACTIVE)
+  createdAt         DateTime      @default(now())
+  expiresAt         DateTime
+  disabledAt        DateTime?
+  resetAt           DateTime?
+
+  @@index([hwid])
+  @@index([ipAddress])
+  @@index([status])
+  @@index([expiresAt])
+  @@index([resetAt])
+}
+
+model SupportTicket {
+  id          String              @id @default(cuid())
+  subject     String
+  description String
+  hwid        String
+  status      SupportTicketStatus @default(OPEN)
+  adminNote   String?
+  createdAt   DateTime            @default(now())
+  proofs      SupportProofImage[]
+
+  @@index([createdAt])
+  @@index([hwid])
+  @@index([status])
+}
+
+model SupportProofImage {
+  id           String        @id @default(cuid())
+  ticketId     String
+  ticket       SupportTicket @relation(fields: [ticketId], references: [id], onDelete: Cascade)
+  originalName String
+  storedName   String
+  relativePath String
+  mimeType     String
+  sizeBytes    Int
+  data         Bytes
+  sha256       String
+  createdAt    DateTime      @default(now())
+
+  @@index([ticketId])
+  @@index([sha256])
+}
