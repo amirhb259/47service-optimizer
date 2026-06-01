@@ -13,7 +13,7 @@
     "prisma:deploy": "prisma migrate deploy",
     "prisma:studio": "prisma studio",
     "build": "tsc && vite build",
-    "netlify:build": "prisma generate && prisma migrate deploy && npm --prefix admin-web ci && npm --prefix admin-web run build",
+    "netlify:build": "npm ci && npm --prefix admin-web ci && npx prisma generate && npx prisma migrate deploy && npm --prefix admin-web run build",
     "admin:dev": "npm --prefix admin-web run dev",
     "admin:build": "npm --prefix admin-web run build",
     "preview": "vite preview --host 127.0.0.1",
