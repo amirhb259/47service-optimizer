@@ -1,5 +1,0 @@
-
-> forty-seven-service@0.1.0 dev:backend
-> tsx server/src/index.ts
-
-47Service license backend listening on http://127.0.0.1:8787
