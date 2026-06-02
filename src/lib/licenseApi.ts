@@ -1,4 +1,6 @@
-﻿export type LicenseType = "LITE" | "PRO" | "LIFETIME";
+﻿import { requireApiBaseUrl } from "./apiBaseUrl";
+
+export type LicenseType = "LITE" | "PRO" | "LIFETIME";
 export type LicenseStatus = "ACTIVE" | "DISABLED" | "EXPIRED";
 
 export type StoredLicense = {
@@ -52,9 +54,6 @@ declare global {
   }
 }
 
-const CONFIGURED_API_BASE_URL = import.meta.env.VITE_LICENSE_API_URL?.replace(/\/$/, "");
-const API_BASE_URL = CONFIGURED_API_BASE_URL || (import.meta.env.DEV ? "http://127.0.0.1:8787" : "");
-
 const BROWSER_HWID_STORAGE_KEY = "47service.browserHwid";
 
 async function parseJson<T>(response: Response): Promise<T> {
@@ -66,11 +65,9 @@ async function parseJson<T>(response: Response): Promise<T> {
 }
 
 async function postLicense<T>(path: string, payload: unknown): Promise<T> {
-  if (!API_BASE_URL) {
-    throw new Error("VITE_LICENSE_API_URL must point to the deployed Netlify API URL.");
-  }
+  const apiBaseUrl = requireApiBaseUrl();
 
-  const response = await fetch(`${API_BASE_URL}${path}`, {
+  const response = await fetch(`${apiBaseUrl}${path}`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(payload),
@@ -101,11 +98,7 @@ export async function getDeviceHwid() {
   }
 
   try {
-    if (!API_BASE_URL) {
-      throw new Error("VITE_LICENSE_API_URL must point to the deployed Netlify API URL.");
-    }
-
-    const response = await fetch(`${API_BASE_URL}/api/license/hwid`);
+    const response = await fetch(`${requireApiBaseUrl()}/api/license/hwid`);
     if (response.ok) {
       const payload = (await response.json()) as { hwid?: string };
       if (payload.hwid?.trim()) {
@@ -114,7 +107,7 @@ export async function getDeviceHwid() {
     }
   } catch {
     if (!import.meta.env.DEV) {
-      throw new Error("Unable to read the device HWID from the backend.");
+      throw new Error("Unable to read the device HWID from the license API.");
     }
   }
 

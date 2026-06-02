@@ -1,5 +1,6 @@
 import { getDeviceHwid } from "./licenseApi";
 import type { LicenseType } from "./licenseApi";
+import { requireApiBaseUrl } from "./apiBaseUrl";
 
 export const SUPPORT_MAX_IMAGES = 6;
 export const SUPPORT_MAX_IMAGE_BYTES = 5 * 1024 * 1024;
@@ -23,18 +24,13 @@ export type SupportTicketResult = {
   };
 };
 
-const CONFIGURED_API_BASE_URL = import.meta.env.VITE_LICENSE_API_URL?.replace(/\/$/, "");
-const API_BASE_URL = CONFIGURED_API_BASE_URL || (import.meta.env.DEV ? "http://127.0.0.1:8787" : "");
-
 export async function createSupportTicket(input: {
   subject: string;
   description: string;
   licenseType: LicenseType;
   proofImages: File[];
 }) {
-  if (!API_BASE_URL) {
-    throw new Error("VITE_LICENSE_API_URL must point to the deployed Netlify API URL.");
-  }
+  const apiBaseUrl = requireApiBaseUrl();
 
   const hwid = await getDeviceHwid();
   const formData = new FormData();
@@ -47,7 +43,7 @@ export async function createSupportTicket(input: {
     formData.append("proofImages", image, image.name);
   }
 
-  const response = await fetch(`${API_BASE_URL}/api/support/tickets`, {
+  const response = await fetch(`${apiBaseUrl}/api/support/tickets`, {
     method: "POST",
     body: formData,
   });

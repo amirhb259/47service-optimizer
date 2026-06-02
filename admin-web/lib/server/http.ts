@@ -1,15 +1,26 @@
 import { NextResponse } from "next/server";
 
 const DEFAULT_ALLOWED_ORIGIN = "*";
+const DESKTOP_ALLOWED_ORIGINS = new Set([
+  "tauri://localhost",
+  "http://tauri.localhost",
+  "https://tauri.localhost",
+  "http://127.0.0.1:1420",
+  "http://localhost:1420",
+]);
 
 function corsOrigin(request: Request) {
   const configured = process.env.API_CORS_ORIGIN?.trim() || DEFAULT_ALLOWED_ORIGIN;
+  const origin = request.headers.get("origin");
+
+  if (origin && DESKTOP_ALLOWED_ORIGINS.has(origin)) {
+    return origin;
+  }
 
   if (configured === "*") {
     return "*";
   }
 
-  const origin = request.headers.get("origin");
   const allowed = configured
     .split(",")
     .map((value) => value.trim())
